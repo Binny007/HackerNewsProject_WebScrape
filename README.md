@@ -2,7 +2,7 @@
 
 # Our Hacker News Project
 
---> So in this project I will be building a useful project by web scraping the HackerNews website(URL: https://news.ycombinator.com/news).
+--> So here I will be building an useful project, by Web Scraping the HackerNews website(URL: https://news.ycombinator.com/news) using the BeautifulSoup library.
 
 --> I want to build a nicer version of Hacker News. You see, every morning as a programmer, we wakeup and usually read Hacker News because
     its a great way for ourself to stay up to date with the industry and just learn about general programming news. They have some really 
